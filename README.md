@@ -29,4 +29,4 @@ Le projet utilise le fichier `california_housing_train.csv` (couramment fourni d
 
 1. clonez le dépôt :
    ```bash
-   git clone [https://github.com/NouhailaOULAARIF/california-housing-analysis.git] (https://github.com/NouhailaOULAARIF/california-housing-analysis.git))
+   git clone [https://github.com/NouhailaOULAARIF/california-housing-analysis.git](https://github.com/NouhailaOULAARIF/california-housing-analysis.git)
